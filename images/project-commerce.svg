@@ -1,0 +1,24 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="36" fill="#08121E"/>
+  <rect x="92" y="84" width="616" height="332" rx="28" fill="#0F1B2D" stroke="#28425F"/>
+  <rect x="132" y="122" width="240" height="256" rx="24" fill="#0B1625"/>
+  <rect x="400" y="122" width="268" height="64" rx="20" fill="#11263F"/>
+  <rect x="400" y="210" width="268" height="28" rx="14" fill="#15304D"/>
+  <rect x="400" y="258" width="126" height="120" rx="18" fill="#10233A"/>
+  <rect x="542" y="258" width="126" height="120" rx="18" fill="#10233A"/>
+  <path d="M180 204H324" stroke="url(#paint0_linear)" stroke-width="16" stroke-linecap="round"/>
+  <path d="M180 246H296" stroke="url(#paint0_linear)" stroke-width="16" stroke-linecap="round" opacity="0.8"/>
+  <path d="M180 288H310" stroke="url(#paint0_linear)" stroke-width="16" stroke-linecap="round" opacity="0.5"/>
+  <text x="428" y="164" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="30" font-weight="700">Commerce Suite</text>
+  <circle cx="640" cy="106" r="110" fill="url(#paint1_radial)" fill-opacity="0.85"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="180" y1="204" x2="324" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74F2CE"/>
+      <stop offset="1" stop-color="#7AA2FF"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 106) rotate(90) scale(110)">
+      <stop stop-color="#FF8D6C"/>
+      <stop offset="1" stop-color="#FF8D6C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="36" fill="#07111F"/>
+  <rect x="82" y="78" width="636" height="344" rx="28" fill="#0F1B2D" stroke="#244360"/>
+  <rect x="118" y="118" width="564" height="70" rx="20" fill="#11263F"/>
+  <path d="M146 334L238 248L320 284L414 190L514 228L650 138" stroke="url(#paint0_linear)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="146" cy="334" r="12" fill="#74F2CE"/>
+  <circle cx="238" cy="248" r="12" fill="#7AA2FF"/>
+  <circle cx="320" cy="284" r="12" fill="#FF8D6C"/>
+  <circle cx="414" cy="190" r="12" fill="#74F2CE"/>
+  <circle cx="514" cy="228" r="12" fill="#7AA2FF"/>
+  <circle cx="650" cy="138" r="12" fill="#FF8D6C"/>
+  <text x="144" y="160" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="32" font-weight="700">Business Analytics</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="146" y1="334" x2="650" y2="138" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74F2CE"/>
+      <stop offset="0.5" stop-color="#7AA2FF"/>
+      <stop offset="1" stop-color="#FF8D6C"/>
+    </linearGradient>
+  </defs>
+</svg>
