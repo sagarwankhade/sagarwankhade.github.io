@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sagarwankhade.github.io/portfolio/sitemap.xml
