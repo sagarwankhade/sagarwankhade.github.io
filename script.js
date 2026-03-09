@@ -32,12 +32,11 @@ navLinks.forEach((link) => {
 // Typing effect for the hero line.
 const typedText = document.getElementById("typedText");
 const phrases = [
-  "Spring Boot microservices.",
-  "enterprise-grade REST APIs.",
-  "Java full stack platforms.",
+  "business websites.",
   "Android and iOS mobile apps.",
+  "ERP and CRM systems.",
   "ecommerce platforms.",
-  "payment-integrated business systems."
+  "payment-integrated solutions."
 ];
 
 let phraseIndex = 0;
